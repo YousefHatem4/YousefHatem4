@@ -4,10 +4,10 @@
 
 ### Frontend Engineer | React Specialist | UI/UX Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-hatem-ahmed)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yousefhatemahmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-hatem-16530024b/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YousefHatem4)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.hatem.developer@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yousefhatemahmed.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-one-lilac-89.vercel.app/)
 
 </div>
 
@@ -50,77 +50,77 @@ I'm a **motivated Frontend Engineer** with a strong foundation in modern web dev
 
 ## 🎯 Featured Projects
 
-### 🛍️ [ShopSphere - E-Commerce Platform](https://github.com/yousefhatemahmed/shopsphere)
+### 🛍️ [ShopSphere - E-Commerce Platform](https://github.com/YousefHatem4/ShopSphere)
 > Modern, fully responsive online shopping platform with seamless user experience
 - **Tech Stack:** React.js, Tailwind CSS, Context API, Axios
 - **Features:** Product search/filtering, cart management, mobile-optimized design, dynamic routing
 - **Highlights:** Performance optimization, responsive across all devices, clean modern UI
 - **Deployed:** Vercel with CI/CD pipeline
-- 🔗 [Live Demo](https://shopsphere-yousef.vercel.app)
+- 🔗 [Live Demo](https://shop-sphere-e-commerce-project-mvuc.vercel.app/)
 
-### 🚗 [GearGrid - Car Listing Web App](https://github.com/yousefhatemahmed/geargrid)
+### 🚗 [GearGrid - Car Listing Web App](https://github.com/YousefHatem4/GearGrid)
 > Responsive car exploration platform with user authentication and favorites
 - **Tech Stack:** React.js, Tailwind CSS, React Router, Context API, Axios
 - **Features:** User authentication, dynamic car listings, advanced search/filter, saved favorites
 - **Highlights:** Clean UI optimized for all devices, intuitive navigation, real-time filtering
 - **Deployed:** Vercel
-- 🔗 [Live Demo](https://geargrid-yousef.vercel.app)
+- 🔗 [Live Demo](https://gear-grid-project.vercel.app/login)
 
-### 🍕 [Tasty Bites - Food Ordering Platform](https://github.com/yousefhatemahmed/tasty-bites)
+### 🍕 [Tasty Bites - Food Ordering Platform](https://github.com/YousefHatem4/TastyBites)
 > Full-stack food ordering web application with Django REST API backend
 - **Tech Stack:** React.js, Tailwind CSS, Django REST API
 - **Features:** Category-based menu filtering, dynamic cart, order management, mobile-first design
 - **Highlights:** Component-based architecture, API integration, team collaboration
 - **Team Project:** Collaborated with backend developer for seamless integration
-- 🔗 [Live Demo](https://tasty-bites-yousef.vercel.app)
+- 🔗 [Live Demo](https://tasty-bites-project.vercel.app/login)
 
-### 🌟 [Personal Portfolio](https://github.com/yousefhatemahmed/portfolio)
+### 🌟 [Personal Portfolio](https://github.com/YousefHatem4/Portfolio)
 > Professional portfolio showcasing projects, skills, and experience
 - **Tech Stack:** Next.js, Tailwind CSS, Framer Motion
 - **Features:** Fully responsive design, smooth animations, optimized performance, SEO-friendly
 - **Highlights:** Modern UI/UX, fast loading times, accessible across all devices
 - **Deployed:** Vercel with automated CI/CD
-- 🔗 [Live Demo](https://yousefhatemahmed.vercel.app)
+- 🔗 [Live Demo](https://portfolio-one-lilac-89.vercel.app/)
 
-### 🎮 [GameReview - Gaming Platform](https://github.com/yousefhatemahmed/gamereview)
+### 🎮 [GameReview - Gaming Platform](https://github.com/YousefHatem4/Game_Review_Project)
 > Responsive game review website demonstrating OOP principles
 - **Tech Stack:** HTML, CSS, Bootstrap, JavaScript (ES6+)
 - **Features:** Dynamic content rendering, modular code with import/export, responsive layouts
 - **Highlights:** Object-Oriented Programming implementation, clean design, modern JavaScript
-- 🔗 [Live Demo](https://gamereview-yousef.vercel.app)
+- 🔗 [Live Demo](https://yousefhatem4.github.io/Game_Review_Project/)
 
-### 🌤️ [Weather App](https://github.com/yousefhatemahmed/weather-app)
+### 🌤️ [Weather App](https://github.com/YousefHatem4/Weather-App)
 > Sleek weather application with real-time API integration
 - **Tech Stack:** HTML, CSS, Bootstrap, JavaScript
 - **Features:** Live weather updates, responsive interface, clean UI
 - **Highlights:** API integration skills, user-friendly design, mobile-optimized
-- 🔗 [Live Demo](https://weather-yousef.vercel.app)
+- 🔗 [Live Demo](https://elevvo-internship-task-7.vercel.app/)
 
-### 📚 [BookMark Manager](https://github.com/yousefhatemahmed/bookmark)
+### 📚 [BookMark Manager](https://github.com/YousefHatem4/Book_Mark_Project)
 > Lightweight bookmark management app with CRUD operations
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 - **Features:** Add/edit/delete bookmarks, responsive design, modern interface
 - **Highlights:** Clean code structure, intuitive UX, localStorage implementation
-- 🔗 [Live Demo](https://bookmark-yousef.vercel.app)
+- 🔗 [Live Demo](https://yousefhatem4.github.io/Book_Mark_Project/)
 
-### 💼 [DevFolio - Portfolio Template](https://github.com/yousefhatemahmed/devfolio)
+### 💼 [DevFolio - Portfolio Template](https://github.com/YousefHatem4/DevFolio)
 > Modern, fully responsive portfolio website template
 - **Tech Stack:** HTML, CSS, Bootstrap
 - **Features:** Customizable sections, skills showcase, contact forms, project galleries
 - **Highlights:** Perfect for developers to showcase work, clean design, easy customization
-- 🔗 [Live Demo](https://devfolio-yousef.vercel.app)
+- 🔗 [Live Demo](https://yousefhatem4.github.io/DevFolio/)
 
-### 🎨 [ReactFirstProject](https://github.com/yousefhatemahmed/react-first-project)
+### 🎨 [ReactFirstProject](https://github.com/YousefHatem4/ReactFirstProject)
 > Modern web application showcasing React fundamentals
 - **Tech Stack:** React.js, JavaScript, HTML, CSS, SCSS
 - **Features:** Fully responsive design, elegant UI/UX, smooth navigation
 - **Highlights:** Component-based structure, modern styling, cross-device compatibility
 - **Deployed:** Vercel
-- 🔗 [Live Demo](https://react-first-yousef.vercel.app)
+- 🔗 [Live Demo](https://react-project-orcin-nine.vercel.app/)
 
 <div align="center">
   
-📂 **[View All Projects →](https://github.com/yousefhatemahmed?tab=repositories)**
+📂 **[View All Projects →](https://github.com/YousefHatem4?tab=repositories)**
 
 </div>
 
@@ -148,9 +148,9 @@ Misr University for Science and Technology | 2022 - 2026
 **GPA:** 3.63 | **Department:** Computer Science
 
 ### 🏆 Certifications
-- **Frontend Web Development Internship Program** - Elevvo (Jul-Aug 2025)
-- **Web Development Internship** - Dev Wave (Jul-Aug 2025)
-- **Frontend Development Diploma** - Route IT Training Center (Nov 2024-Mar 2025)
+- **[Frontend Web Development Internship Program](https://drive.google.com/file/d/1eWLy2C7CTTHCwqA-KZqYBqvN4Rto7G1Z/view)** - Elevvo (Jul-Aug 2025)
+- **[Web Development Internship](https://drive.google.com/file/d/14oJ4dtLbeetBAHV6qACzssfWXHqJBIan/view)** - Dev Wave (Jul-Aug 2025)
+- **[Frontend Development Diploma](https://drive.google.com/file/d/1kDpRYkKP8zdUvMCF3aQeXbmXA9JTw04P/view)** - Route IT Training Center (Nov 2024-Mar 2025)
 
 ---
 
@@ -182,6 +182,12 @@ Misr University for Science and Technology | 2022 - 2026
 
 ## 🌟 What I Bring to the Table
 
+<div align="center">
+
+✅ **Responsive Design Expert** | ✅ **Clean Code Advocate** | ✅ **Performance Optimizer**  
+✅ **Fast Learner** | ✅ **Team Collaborator** | ✅ **Problem Solver**
+
+</div>
 
 ---
 
@@ -226,9 +232,9 @@ I'm always interested in collaborating on exciting projects, discussing new oppo
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousef.hatem.developer@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-hatem-ahmed)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-hatem-16530024b/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201140821819)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yousefhatemahmed.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-one-lilac-89.vercel.app/)
 
 **Location:** Sheikh Zayed, Egypt 📍 | **Phone:** +20 114 082 1819 📱
 
@@ -240,10 +246,8 @@ I'm always interested in collaborating on exciting projects, discussing new oppo
 
 ### 💭 *"Dedicated to personal growth and striving for excellence in every task"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=yousefhatemahmed&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=yousefhatem24&color=blueviolet&style=for-the-badge)
 
-⭐️ From [Yousef Hatem Ahmed](https://github.com/yousefhatemahmed)
+⭐️ From [Yousef Hatem Ahmed](https://github.com/YousefHatem4)
 
 </div>
-
-
